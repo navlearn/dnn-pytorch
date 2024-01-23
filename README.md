@@ -1,2 +1,4 @@
 # dnn-pytorch
-deep-neural-networks-with-pytorch coursera
+## About
+This repo will track progress of Coursera course deep-neural-networks-with-pytorch 
+
