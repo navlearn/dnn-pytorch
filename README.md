@@ -4,13 +4,13 @@ This repo will track progress of Coursera' course deep-neural-networks-with-pyto
 
 ## Python version
 Python 3.10.11
+Use venv to create virtual env
+- python -m venv venv
+- .\venv\Scripts\activate
 
 ## Dependencies
 Install dependencies from requirements.txt file
-<pre>
-```bash
-pip install -r requirements.txt
-```
-</pre>
+`pip install -r requirements.txt`
+
 
 
