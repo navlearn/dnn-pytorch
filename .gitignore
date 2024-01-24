@@ -1,3 +1,4 @@
 # Exclude venv folder
 /venv
 /env
+.ipynb_checkpoints
